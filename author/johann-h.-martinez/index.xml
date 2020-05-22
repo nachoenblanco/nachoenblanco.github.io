@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johann H. Martínez | Ignacio Echegoyen</title>
+    <link>https://nachoenblanco.github.io/author/johann-h.-martinez/</link>
+      <atom:link href="https://nachoenblanco.github.io/author/johann-h.-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johann H. Martínez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nachoenblanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Johann H. Martínez</title>
+      <link>https://nachoenblanco.github.io/author/johann-h.-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Permutation Entropy and Statistical Complexity in Mild Cognitive Impairment and Alzheimer&#39;s Disease: An Analysis Based on Frequency Bands</title>
+      <link>https://nachoenblanco.github.io/publication/echegoyen-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/publication/echegoyen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Network Science to Analyse Football Passing Networks: Dynamics, Space, Time, and the Multilayer Nature of the Game</title>
+      <link>https://nachoenblanco.github.io/publication/buldu-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/publication/buldu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

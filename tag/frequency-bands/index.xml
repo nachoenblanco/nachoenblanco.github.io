@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frequency bands | Ignacio Echegoyen</title>
+    <link>https://nachoenblanco.github.io/tag/frequency-bands/</link>
+      <atom:link href="https://nachoenblanco.github.io/tag/frequency-bands/index.xml" rel="self" type="application/rss+xml" />
+    <description>frequency bands</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nachoenblanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>frequency bands</title>
+      <link>https://nachoenblanco.github.io/tag/frequency-bands/</link>
+    </image>
+    
+    <item>
+      <title>Permutation Entropy and Statistical Complexity in Mild Cognitive Impairment and Alzheimer&#39;s Disease: An Analysis Based on Frequency Bands</title>
+      <link>https://nachoenblanco.github.io/publication/echegoyen-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/publication/echegoyen-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
