@@ -5,12 +5,28 @@
     <link>https://nachoenblanco.github.io/publication/</link>
       <atom:link href="https://nachoenblanco.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nachoenblanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://nachoenblanco.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Asymmetries in football: The pass-goal paradox</title>
+      <link>https://nachoenblanco.github.io/publication/futbol-2/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/publication/futbol-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitch networks reveal organizational and spatial patterns of Guardiola&#39;s F.C. Barcelona</title>
+      <link>https://nachoenblanco.github.io/publication/futbol-1/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/publication/futbol-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Permutation Entropy and Statistical Complexity in Mild Cognitive Impairment and Alzheimer&#39;s Disease: An Analysis Based on Frequency Bands</title>

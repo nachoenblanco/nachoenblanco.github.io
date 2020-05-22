@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Seirul.lo | Ignacio Echegoyen</title>
-    <link>https://nachoenblanco.github.io/author/f.-seirul.lo/</link>
-      <atom:link href="https://nachoenblanco.github.io/author/f.-seirul.lo/index.xml" rel="self" type="application/rss+xml" />
-    <description>F. Seirul.lo</description>
+    <title>J.L. Herrera-Diestra | Ignacio Echegoyen</title>
+    <link>https://nachoenblanco.github.io/author/j.l.-herrera-diestra/</link>
+      <atom:link href="https://nachoenblanco.github.io/author/j.l.-herrera-diestra/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.L. Herrera-Diestra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nachoenblanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>F. Seirul.lo</title>
-      <link>https://nachoenblanco.github.io/author/f.-seirul.lo/</link>
+      <title>J.L. Herrera-Diestra</title>
+      <link>https://nachoenblanco.github.io/author/j.l.-herrera-diestra/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nachoenblanco.github.io/publication/futbol-1/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://nachoenblanco.github.io/publication/futbol-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defining a historic football team: Using Network Science to analyze Guardiola&#39;s F.C. Barcelona</title>
-      <link>https://nachoenblanco.github.io/publication/buldu-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://nachoenblanco.github.io/publication/buldu-2019/</guid>
       <description></description>
     </item>
     
