@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azlheimer | Ignacio Echegoyen</title>
+    <link>https://nachoenblanco.github.io/tag/azlheimer/</link>
+      <atom:link href="https://nachoenblanco.github.io/tag/azlheimer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Azlheimer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ignacio Echegoyen © 2020</copyright><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nachoenblanco.github.io/images/icon_hu39a1d48d824d8270b91338a04dae7342_533_512x512_fill_lanczos_center_2.png</url>
+      <title>Azlheimer</title>
+      <link>https://nachoenblanco.github.io/tag/azlheimer/</link>
+    </image>
+    
+    <item>
+      <title>Fom healthy aging to Alzheimer&#39;s disease: a multilayer network approach</title>
+      <link>https://nachoenblanco.github.io/talk/lanet2019/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://nachoenblanco.github.io/talk/lanet2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
